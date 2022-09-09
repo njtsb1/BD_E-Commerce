@@ -4,8 +4,10 @@ Project developed at Digital Innovation One's Bootcamp Database Experience with 
 
 Model presented refined adding the following points:
 
-PJ and PF Client – An account can be PJ or PF, but cannot have both information;
+PJ and PF Client; 
 
-Payment – You may have registered more than one payment method;
+An account can be PJ or PF, but cannot have both information;
 
-Delivery – Has status and tracking code.
+Payment: You may have registered more than one payment method;
+
+Delivery: Has status and tracking code.
